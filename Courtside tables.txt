@@ -1,0 +1,5 @@
+Tables
+
+courtlogin(name varchar(20),username varchar(20),password varchar(20));
+
+football(courtname varchar(20),custname varchar(20),phoneno number(10),email varchar(30),slot varchar(20));
